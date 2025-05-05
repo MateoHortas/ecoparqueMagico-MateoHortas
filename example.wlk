@@ -7,3 +7,5 @@ object pepita {
     energy = energy - minutes * 3
   }
 }
+
+
